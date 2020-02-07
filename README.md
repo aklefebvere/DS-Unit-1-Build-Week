@@ -2,7 +2,7 @@
 
 ## College Salaries project
 
-![](https://snworksceo.imgix.net/dpn/98cc9cb1-bfc2-4bb7-a923-b167ccacbf37.sized-1000x1000.jpg?w=1000)
+![](https://d3n8a8pro7vhmx.cloudfront.net/columbia120/pages/2236/attachments/original/1527792083/Ivy_League_Banners.jpg?1527792083)
 
 [Colab Notebook](https://colab.research.google.com/drive/1F3poZJOL9j2h3coI-7PtGFpOBYosuOn7)
 
