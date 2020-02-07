@@ -1,6 +1,6 @@
 # DS-Unit-1-Build-Week
 
-# College Salaries project
+## College Salaries project
 
 ![](https://snworksceo.imgix.net/dpn/98cc9cb1-bfc2-4bb7-a923-b167ccacbf37.sized-1000x1000.jpg?w=1000)
 
